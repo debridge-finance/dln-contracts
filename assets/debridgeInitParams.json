@@ -1,0 +1,37 @@
+{
+  "ETH": {
+    "globalFixedNativeFee": "1000000000000000",
+    "globalTransferFeeBps": "4",
+    "deBridgeGateAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+  },
+  "BSC": {
+    "globalFixedNativeFee": "5000000000000000",
+    "globalTransferFeeBps": "4",
+    "deBridgeGateAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+  },
+  "HECO": {
+    "globalFixedNativeFee": "100000000000000",
+    "globalTransferFeeBps": "4",
+    "deBridgeGateAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+  },
+  "MATIC": {
+    "globalFixedNativeFee": "500000000000000000",
+    "globalTransferFeeBps": "4",
+    "deBridgeGateAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+  },
+  "ARBITRUM": {
+    "globalFixedNativeFee": "1000000000000000",
+    "globalTransferFeeBps": "4",
+    "deBridgeGateAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+  },
+  "FANTOM": {
+    "globalFixedNativeFee": "4000000000000000000",
+    "globalTransferFeeBps": "4",
+    "deBridgeGateAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+  },
+  "AVALANCHE": {
+    "globalFixedNativeFee": "10000000000000000",
+    "globalTransferFeeBps": "4",
+    "deBridgeGateAddress": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA"
+  }
+}
